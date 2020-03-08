@@ -10,3 +10,6 @@ Neural style transfer is a technique used to generate images in the style of ano
 - torchvision.transforms: treats PIL images and transforms them into torch tensors.
 - torchvision.models: training and loading pre-trained models.
 - copy: deep copy the models.
+
+## The content loss function
+The content loss is taking as input the feature maps at a layer in a network and returning the weighted content distance between this image and the content image.

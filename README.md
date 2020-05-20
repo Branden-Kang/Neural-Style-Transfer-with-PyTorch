@@ -18,5 +18,5 @@ I use a pre-trained VGG network with 19 layers (VGG19).
 The content loss is taking as input the feature maps at a layer in a network and returning the weighted content distance between this image and the content image.
 
 ## Reference
-A Neural Algorithm of Artistic Style Paper: https://arxiv.org/pdf/1508.06576.pdf <br>
-Official Pytorch Neural transfer tutorial: https://pytorch.org/tutorials/advanced/neural_style_tutorial.html#introduction
+[A Neural Algorithm of Artistic Style Paper](https://arxiv.org/pdf/1508.06576.pdf) <br>
+[Official Pytorch Neural transfer tutorial](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html#introduction)
